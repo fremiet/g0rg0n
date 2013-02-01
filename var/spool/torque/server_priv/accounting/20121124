@@ -1,0 +1,2 @@
+11/24/2012 23:16:48;Q;541.csg.bcmd.bcm.edu;queue=high
+11/24/2012 23:16:51;S;541.csg.bcmd.bcm.edu;user=gaow group=csg jobname=extratc_n10000 queue=high ctime=1353820608 qtime=1353820608 etime=1353820608 start=1353820611 owner=gaow@csg.bcmd.bcm.edu exec_host=csg20/15+csg20/14+csg20/13+csg20/12+csg20/11+csg20/10+csg20/9+csg20/8+csg20/7+csg20/6+csg20/5+csg20/4+csg20/3+csg20/2+csg20/1+csg20/0 Resource_List.neednodes=1:ppn=16 Resource_List.nodect=1 Resource_List.nodes=1:ppn=16 Resource_List.walltime=480:00:00 

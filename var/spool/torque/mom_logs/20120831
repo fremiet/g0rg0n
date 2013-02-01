@@ -1,0 +1,233 @@
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;Log;Log opened
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;setpbsserver;csg
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;mom_server_add;server csg added
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;usecp;*:/nfs /nfs
+08/31/2012 08:07:45;0002;   pbs_mom;n/a;initialize;independent
+08/31/2012 08:07:45;0080;   pbs_mom;Svr;pbs_mom;before init_abort_jobs
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;pbs_mom;Is up
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;setup_program_environment;MOM executable path and mtime at launch: /usr/local/sbin/pbs_mom 1329456167
+08/31/2012 08:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:07:45;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+08/31/2012 08:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 08:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:20:04;0001;   pbs_mom;Svr;pbs_mom;LOG_DEBUG::mom_checkpoint_job_has_checkpoint, FALSE
+08/31/2012 09:20:04;0001;   pbs_mom;Job;TMomFinalizeJob3;job 31885.csg.bcmd.bcm.edu started, pid = 23015
+08/31/2012 09:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 09:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:43:49;0080;   pbs_mom;Job;31885.csg.bcmd.bcm.edu;scan_for_terminated: job 31885.csg.bcmd.bcm.edu task 1 terminated, sid=23015
+08/31/2012 10:43:49;0008;   pbs_mom;Job;31885.csg.bcmd.bcm.edu;job was terminated
+08/31/2012 10:43:49;0080;   pbs_mom;Svr;preobit_reply;top of preobit_reply
+08/31/2012 10:43:49;0080;   pbs_mom;Svr;preobit_reply;DIS_reply_read/decode_DIS_replySvr worked, top of while loop
+08/31/2012 10:43:49;0080;   pbs_mom;Svr;preobit_reply;in while loop, no error from job stat
+08/31/2012 10:43:49;0080;   pbs_mom;Job;31885.csg.bcmd.bcm.edu;obit sent to server
+08/31/2012 10:43:51;0080;   pbs_mom;Job;31885.csg.bcmd.bcm.edu;removed job script
+08/31/2012 10:43:53;0001;   pbs_mom;Svr;pbs_mom;LOG_DEBUG::mom_checkpoint_job_has_checkpoint, FALSE
+08/31/2012 10:43:53;0001;   pbs_mom;Job;TMomFinalizeJob3;job 31887.csg.bcmd.bcm.edu started, pid = 23117
+08/31/2012 10:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 10:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 11:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 12:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 13:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 14:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:30:53;0080;   pbs_mom;Job;31887.csg.bcmd.bcm.edu;scan_for_terminated: job 31887.csg.bcmd.bcm.edu task 1 terminated, sid=23117
+08/31/2012 15:30:53;0008;   pbs_mom;Job;31887.csg.bcmd.bcm.edu;job was terminated
+08/31/2012 15:30:53;0080;   pbs_mom;Svr;preobit_reply;top of preobit_reply
+08/31/2012 15:30:53;0080;   pbs_mom;Svr;preobit_reply;DIS_reply_read/decode_DIS_replySvr worked, top of while loop
+08/31/2012 15:30:53;0080;   pbs_mom;Svr;preobit_reply;in while loop, no error from job stat
+08/31/2012 15:30:53;0080;   pbs_mom;Job;31887.csg.bcmd.bcm.edu;obit sent to server
+08/31/2012 15:30:58;0080;   pbs_mom;Job;31887.csg.bcmd.bcm.edu;removed job script
+08/31/2012 15:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 15:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:15:41;0002;   pbs_mom;Svr;im_eof;End of File from addr 172.16.0.2:15001
+08/31/2012 16:15:41;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+08/31/2012 16:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 16:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 17:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:13:30;0001;   pbs_mom;Svr;pbs_mom;LOG_DEBUG::mom_checkpoint_job_has_checkpoint, FALSE
+08/31/2012 18:13:30;0001;   pbs_mom;Job;TMomFinalizeJob3;job 31909.csg.bcmd.bcm.edu started, pid = 23233
+08/31/2012 18:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 18:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:20:02;0080;   pbs_mom;Job;31909.csg.bcmd.bcm.edu;scan_for_terminated: job 31909.csg.bcmd.bcm.edu task 1 terminated, sid=23233
+08/31/2012 19:20:02;0008;   pbs_mom;Job;31909.csg.bcmd.bcm.edu;job was terminated
+08/31/2012 19:20:02;0080;   pbs_mom;Svr;preobit_reply;top of preobit_reply
+08/31/2012 19:20:02;0080;   pbs_mom;Svr;preobit_reply;DIS_reply_read/decode_DIS_replySvr worked, top of while loop
+08/31/2012 19:20:02;0080;   pbs_mom;Svr;preobit_reply;in while loop, no error from job stat
+08/31/2012 19:20:02;0080;   pbs_mom;Job;31909.csg.bcmd.bcm.edu;obit sent to server
+08/31/2012 19:20:02;0080;   pbs_mom;Job;31909.csg.bcmd.bcm.edu;removed job script
+08/31/2012 19:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 19:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 20:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 21:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 22:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:02:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:07:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:12:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:17:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:22:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:27:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:28:13;0001;   pbs_mom;Svr;pbs_mom;LOG_DEBUG::mom_checkpoint_job_has_checkpoint, FALSE
+08/31/2012 23:28:13;0001;   pbs_mom;Job;TMomFinalizeJob3;job 31912.csg.bcmd.bcm.edu started, pid = 23302
+08/31/2012 23:32:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:37:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:42:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:47:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:52:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+08/31/2012 23:57:45;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/01/2012 00:02:45;0002;   pbs_mom;Svr;Log;Log closed

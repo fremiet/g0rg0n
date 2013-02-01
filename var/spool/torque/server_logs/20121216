@@ -1,0 +1,427 @@
+12/16/2012 00:00:15;0002;PBS_Server.1830;Svr;Log;Log opened
+12/16/2012 00:00:15;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:05:20;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:09:38;0040;PBS_Server.11062;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 00:10:25;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:15:30;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:19:48;0040;PBS_Server.11076;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 00:20:35;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:25:40;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:29:58;0040;PBS_Server.11089;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 00:30:45;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:35:50;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:40:08;0040;PBS_Server.11109;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 00:40:55;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:46:00;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:50:18;0040;PBS_Server.11123;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 00:51:05;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 00:56:10;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:00:28;0040;PBS_Server.11145;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 01:01:15;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:06:20;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:10:38;0040;PBS_Server.11246;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 01:11:25;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:16:30;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:20:48;0040;PBS_Server.11339;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 01:21:35;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:26:40;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:30:58;0040;PBS_Server.11434;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 01:31:45;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:36:50;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:41:08;0040;PBS_Server.11535;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 01:41:55;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:47:00;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:51:18;0040;PBS_Server.11630;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 01:52:05;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 01:57:10;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:01:28;0040;PBS_Server.11716;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 02:02:15;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:07:20;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:11:38;0040;PBS_Server.11730;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 02:12:25;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:17:30;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:21:48;0040;PBS_Server.11745;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 02:22:35;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:27:40;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:31:58;0040;PBS_Server.11759;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 02:32:45;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:37:50;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:42:08;0040;PBS_Server.11773;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 02:42:55;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:48:00;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:52:18;0040;PBS_Server.11787;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 02:53:05;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 02:58:10;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:02:28;0040;PBS_Server.11807;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 03:03:15;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:08:20;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:12:38;0040;PBS_Server.11852;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 03:13:25;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:18:30;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:22:48;0040;PBS_Server.11866;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 03:23:35;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:28:40;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:32:58;0040;PBS_Server.11880;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 03:33:45;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:38:50;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:43:08;0040;PBS_Server.11894;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 03:43:55;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:49:00;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:53:18;0040;PBS_Server.11908;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 03:54:05;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 03:59:10;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:03:28;0040;PBS_Server.11928;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 04:04:15;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:09:20;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:13:38;0040;PBS_Server.11942;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 04:14:25;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:19:30;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:23:48;0040;PBS_Server.11957;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 04:24:35;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:29:40;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:33:58;0040;PBS_Server.11971;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 04:34:45;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:39:50;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:44:08;0040;PBS_Server.11985;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 04:44:55;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:50:00;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 04:54:18;0040;PBS_Server.12000;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 04:55:05;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:00:10;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:04:28;0040;PBS_Server.12019;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 05:05:15;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:10:20;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:14:38;0040;PBS_Server.12033;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 05:15:25;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:20:30;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:24:48;0040;PBS_Server.12048;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 05:25:35;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:30:40;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:34:58;0040;PBS_Server.12063;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 05:35:45;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:40:50;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:45:08;0040;PBS_Server.12083;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 05:45:55;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:51:00;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 05:55:18;0040;PBS_Server.12097;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 05:56:05;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:01:10;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:05:28;0040;PBS_Server.12116;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 06:06:15;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:11:20;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:15:38;0040;PBS_Server.12129;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 06:16:25;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:21:30;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:25:48;0040;PBS_Server.12143;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 06:26:35;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:31:40;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:35:58;0040;PBS_Server.12158;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 06:36:45;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:41:50;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:46:08;0040;PBS_Server.12172;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 06:46:55;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:52:00;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 06:56:18;0040;PBS_Server.12187;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 06:57:05;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:02:10;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:06:28;0040;PBS_Server.12205;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 07:07:15;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:12:20;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:16:38;0040;PBS_Server.12219;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 07:17:25;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:22:30;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:26:48;0040;PBS_Server.12234;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 07:27:35;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:32:40;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:36:58;0040;PBS_Server.12248;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 07:37:45;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:42:50;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:47:08;0040;PBS_Server.12262;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 07:47:55;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:53:00;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 07:57:18;0040;PBS_Server.12275;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 07:58:05;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:03:10;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:07:28;0040;PBS_Server.12295;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 08:08:15;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:13:20;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:17:38;0040;PBS_Server.12309;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 08:18:25;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:23:30;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:27:48;0040;PBS_Server.12323;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 08:28:35;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:33:40;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:37:58;0040;PBS_Server.12337;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 08:38:45;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:43:50;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:48:08;0040;PBS_Server.12350;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 08:48:55;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:54:00;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 08:58:18;0040;PBS_Server.12365;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 08:59:05;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:04:10;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:08:28;0040;PBS_Server.12384;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 09:09:15;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:14:20;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:18:38;0040;PBS_Server.12398;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 09:19:25;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:24:30;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:28:48;0040;PBS_Server.12412;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 09:29:35;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:34:40;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:38:58;0040;PBS_Server.12425;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 09:39:45;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:44:50;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:49:08;0040;PBS_Server.12440;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 09:49:55;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:55:00;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 09:59:18;0040;PBS_Server.12454;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 10:00:05;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:05:10;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:09:28;0040;PBS_Server.12473;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 10:10:15;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:15:20;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:19:38;0040;PBS_Server.12487;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 10:20:25;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:25:30;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:29:48;0040;PBS_Server.12500;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 10:30:35;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:35:40;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:39:58;0040;PBS_Server.12515;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 10:40:45;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:45:50;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:50:08;0040;PBS_Server.12534;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 10:50:55;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 10:56:00;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:00:18;0040;PBS_Server.12548;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 11:01:05;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:06:10;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:10:28;0040;PBS_Server.12567;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 11:11:15;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:16:20;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:20:38;0040;PBS_Server.12581;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 11:21:25;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:26:30;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:30:48;0040;PBS_Server.12596;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 11:31:35;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:36:40;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:40:58;0040;PBS_Server.12611;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 11:41:45;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:46:50;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:51:08;0040;PBS_Server.12628;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 11:51:55;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 11:57:00;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:01:18;0040;PBS_Server.12663;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 12:02:05;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:07:10;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:11:28;0040;PBS_Server.12678;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 12:12:15;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:17:20;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:21:38;0040;PBS_Server.12693;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 12:22:25;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:27:30;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:31:53;0040;PBS_Server.12707;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 12:32:40;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:37:45;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:42:03;0040;PBS_Server.12721;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 12:42:50;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:47:55;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:52:13;0040;PBS_Server.12735;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 12:53:00;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 12:58:05;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:02:23;0040;PBS_Server.12778;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 13:03:10;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:08:15;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:12:33;0040;PBS_Server.12873;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 13:13:20;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:18:25;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:22:43;0040;PBS_Server.12967;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 13:23:30;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:28:35;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:32:53;0040;PBS_Server.13061;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 13:33:40;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:38:45;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:43:03;0040;PBS_Server.13162;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 13:43:50;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:48:55;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:53:13;0040;PBS_Server.13257;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 13:54:00;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 13:59:05;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:03:23;0040;PBS_Server.13326;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 14:04:10;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:09:15;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:13:33;0040;PBS_Server.13340;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 14:14:20;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:19:25;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:23:43;0040;PBS_Server.13354;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 14:24:30;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:29:35;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:33:53;0040;PBS_Server.13368;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 14:34:40;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:39:45;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:44:03;0040;PBS_Server.13382;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 14:44:50;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:49:55;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 14:54:13;0040;PBS_Server.13397;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 14:55:00;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:00:05;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:04:23;0040;PBS_Server.13416;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 15:05:10;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:10:15;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:14:33;0040;PBS_Server.13430;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 15:15:20;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:20:25;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:24:43;0040;PBS_Server.13444;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 15:25:30;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:30:35;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:34:53;0040;PBS_Server.13459;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 15:35:40;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:40:45;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:45:03;0040;PBS_Server.13479;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 15:45:50;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:50:55;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 15:55:13;0040;PBS_Server.13493;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 15:56:00;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:01:05;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:05:23;0040;PBS_Server.13512;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 16:06:10;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:11:15;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:15:33;0040;PBS_Server.13526;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 16:16:20;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:21:25;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:25:43;0040;PBS_Server.13540;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 16:26:30;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:31:35;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:35:53;0040;PBS_Server.13555;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 16:36:40;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:41:45;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:46:03;0040;PBS_Server.13569;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 16:46:50;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:51:55;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 16:56:13;0040;PBS_Server.13583;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 16:57:00;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:02:05;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:06:23;0040;PBS_Server.13602;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 17:07:10;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:12:15;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:16:33;0040;PBS_Server.13616;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 17:17:20;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:22:25;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:26:43;0040;PBS_Server.13631;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 17:27:30;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:32:35;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:36:53;0040;PBS_Server.13645;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 17:37:40;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:42:45;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:47:03;0040;PBS_Server.13661;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 17:47:50;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:52:55;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 17:57:13;0040;PBS_Server.13677;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 17:58:00;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:03:05;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:07:23;0040;PBS_Server.13698;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 18:08:10;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:13:15;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:17:33;0040;PBS_Server.13713;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 18:18:20;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:23:25;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:27:43;0040;PBS_Server.13727;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 18:28:30;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:33:35;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:37:53;0040;PBS_Server.13741;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 18:38:40;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:43:45;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:48:03;0040;PBS_Server.13755;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 18:48:50;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:53:55;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 18:58:13;0040;PBS_Server.13769;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 18:59:00;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:04:05;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:08:23;0040;PBS_Server.13789;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 19:09:10;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:14:15;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:18:33;0040;PBS_Server.13803;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 19:19:20;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:24:25;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:28:43;0040;PBS_Server.13817;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 19:29:30;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:34:35;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:38:53;0040;PBS_Server.13831;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 19:39:40;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:44:45;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:49:03;0040;PBS_Server.13845;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 19:49:50;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:54:55;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 19:59:13;0040;PBS_Server.13860;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 20:00:00;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:05:05;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:09:23;0040;PBS_Server.13878;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 20:10:10;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:15:15;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:19:33;0040;PBS_Server.13892;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 20:20:20;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:25:25;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:29:43;0040;PBS_Server.13906;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 20:30:30;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:35:35;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:39:53;0040;PBS_Server.13920;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 20:40:40;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:45:45;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:50:03;0040;PBS_Server.13939;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 20:50:50;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 20:55:55;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:00:13;0040;PBS_Server.13954;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 21:01:00;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:06:05;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:10:23;0040;PBS_Server.13973;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 21:11:10;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:16:15;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:20:33;0040;PBS_Server.13987;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 21:21:20;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:26:25;0002;PBS_Server.1833;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:30:43;0040;PBS_Server.14001;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 21:31:30;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:36:35;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:40:53;0040;PBS_Server.14016;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 21:41:40;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:46:45;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:51:03;0040;PBS_Server.14030;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 21:51:50;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 21:56:55;0002;PBS_Server.1836;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:01:13;0040;PBS_Server.14049;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 22:02:00;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:07:05;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:11:23;0040;PBS_Server.14063;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 22:12:10;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:17:15;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:21:33;0040;PBS_Server.14077;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 22:22:20;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:27:25;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:31:43;0040;PBS_Server.14092;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 22:32:30;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:37:35;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:41:53;0040;PBS_Server.14107;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 22:42:40;0002;PBS_Server.1832;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:47:45;0002;PBS_Server.1839;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:52:03;0040;PBS_Server.14121;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 22:52:50;0002;PBS_Server.1830;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 22:57:55;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:02:13;0040;PBS_Server.14140;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 23:03:00;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:08:05;0002;PBS_Server.1840;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:12:23;0040;PBS_Server.14154;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 23:13:10;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:18:15;0002;PBS_Server.1835;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:22:33;0040;PBS_Server.14169;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 23:23:20;0002;PBS_Server.1828;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:28:25;0002;PBS_Server.1841;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:32:43;0040;PBS_Server.14183;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 23:33:30;0002;PBS_Server.1834;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:38:35;0002;PBS_Server.1829;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:42:53;0040;PBS_Server.14197;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 23:43:40;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:48:45;0002;PBS_Server.1837;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:53:03;0040;PBS_Server.14211;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/16/2012 23:53:50;0002;PBS_Server.1838;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/16/2012 23:58:55;0002;PBS_Server.1831;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/17/2012 00:03:13;0002;PBS_Server.14232;Svr;Log;Log closed

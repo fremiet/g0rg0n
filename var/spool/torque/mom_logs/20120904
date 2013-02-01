@@ -1,0 +1,406 @@
+09/04/2012 00:00:20;0002;   pbs_mom;Svr;Log;Log opened
+09/04/2012 00:00:20;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:00:20;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:01:59;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:01:59;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:01:59;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:03:38;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:03:38;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:05:17;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:05:17;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:06:56;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:06:56;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:07:07;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:08:35;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:08:35;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:10:14;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:10:14;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:11:53;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:11:53;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:12:15;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:13:32;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:13:32;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:15:11;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:15:11;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:16:50;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:16:50;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:17:23;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:18:29;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:18:29;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:20:09;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:20:09;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:21:48;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:21:48;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:22:32;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:23:27;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:23:27;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:25:06;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:25:06;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:26:45;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:26:45;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:27:40;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:28:24;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:28:24;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:30:03;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:30:03;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:31:42;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:31:42;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:32:48;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:33:21;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:33:21;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:35:00;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:35:00;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:36:39;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:36:39;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:37:57;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:38:19;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:38:19;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:39:58;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:39:58;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:41:37;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:41:37;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:43:05;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:43:16;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:43:16;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:44:55;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:44:55;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:46:34;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:46:34;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:48:13;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:48:13;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:48:13;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:49:52;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:49:52;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:51:31;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:51:31;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:53:10;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:53:10;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:53:21;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:54:50;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:54:50;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:56:29;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:56:29;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:58:08;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:58:08;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 00:58:30;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 00:59:47;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 00:59:47;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:01:26;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:01:26;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:03:05;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:03:05;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:03:38;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:04:44;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:04:44;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:06:23;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:06:23;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:08:02;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:08:02;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:08:46;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:09:41;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:09:41;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:11:20;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:11:20;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:12:59;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:12:59;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:13:55;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:14:39;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:14:39;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:16:18;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:16:18;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:17:57;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:17:57;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:19:03;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:19:36;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:19:36;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:21:15;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:21:15;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:22:54;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:22:54;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:24:11;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:24:33;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:24:33;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:26:12;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:26:12;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:27:51;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:27:51;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:29:19;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:29:30;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:29:30;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:31:09;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:31:09;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:32:49;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:32:49;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:34:28;0002;   pbs_mom;n/a;mom_server_check_connection;connection to server csg timeout
+09/04/2012 01:34:28;0002;   pbs_mom;n/a;mom_server_check_connection;sending hello to server csg
+09/04/2012 01:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 01:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 02:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 03:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 04:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 05:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 06:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 07:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 08:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 09:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 10:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 11:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 12:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 13:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 14:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 15:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 16:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 17:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 18:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 19:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 20:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 21:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 22:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:04:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:09:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:14:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:19:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:24:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:29:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:34:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:39:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:44:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:49:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:54:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/04/2012 23:59:28;0002;   pbs_mom;Svr;pbs_mom;Torque Mom Version = 3.0.4, loglevel = 0
+09/05/2012 00:04:28;0002;   pbs_mom;Svr;Log;Log closed

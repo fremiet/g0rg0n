@@ -1,0 +1,1067 @@
+12/04/2012 00:01:34;0002;PBS_Server.1874;Svr;Log;Log opened
+12/04/2012 00:01:34;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:04:30;0040;PBS_Server.8638;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 00:06:35;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:11:44;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:14:40;0040;PBS_Server.8741;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 00:16:45;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:21:54;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:24:50;0040;PBS_Server.8845;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 00:26:55;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:32:04;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:35:00;0040;PBS_Server.8949;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 00:37:05;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:42:14;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:45:10;0040;PBS_Server.9067;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 00:47:15;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:52:24;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 00:55:20;0040;PBS_Server.9173;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 00:57:25;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:02:34;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:05:30;0040;PBS_Server.9231;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 01:07:35;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:08:17;0100;PBS_Server.1868;Job;688.csg.bcmd.bcm.edu;enqueuing into high, state 1 hop 1
+12/04/2012 01:08:17;0002;PBS_Server.1868;Svr;Act;Account file /var/spool/torque/server_priv/accounting/20121204 opened
+12/04/2012 01:08:17;0008;PBS_Server.1868;Job;688.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = LVOTO_shapeit_test_chr22, queue = high
+12/04/2012 01:08:21;0040;PBS_Server.9285;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 01:08:22;0008;PBS_Server.1876;Job;688.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 01:08:22;000d;PBS_Server.1876;Job;688.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 01:12:42;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:17:53;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:18:28;0040;PBS_Server.9311;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 01:22:53;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:28:04;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:28:39;0040;PBS_Server.9363;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 01:33:18;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:38:23;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:38:54;0040;PBS_Server.9602;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 01:43:28;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:48:33;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:49:04;0040;PBS_Server.9788;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 01:53:38;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:58:43;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 01:59:14;0040;PBS_Server.9802;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 02:03:48;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:08:53;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:09:24;0040;PBS_Server.9915;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 02:13:58;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:19:03;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:19:34;0040;PBS_Server.10018;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 02:24:08;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:29:13;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:29:44;0040;PBS_Server.10123;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 02:34:18;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:39:23;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:39:54;0040;PBS_Server.10228;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 02:44:28;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:49:33;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:50:04;0040;PBS_Server.10346;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 02:54:38;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 02:59:43;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:00:14;0040;PBS_Server.10443;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 03:04:48;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:09:53;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:10:24;0040;PBS_Server.10466;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 03:14:58;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:20:03;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:20:34;0040;PBS_Server.10481;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 03:23:20;000d;PBS_Server.1873;Job;688.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 03:23:20;0010;PBS_Server.1873;Job;688.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=27:38:00 resources_used.mem=1018784kb resources_used.vmem=1309536kb resources_used.walltime=02:14:58
+12/04/2012 03:23:20;0008;PBS_Server.1867;Job;688.csg.bcmd.bcm.edu;on_job_exit valid pjob: 688.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 03:23:25;0040;PBS_Server.10492;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 03:25:04;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:28:25;0008;PBS_Server.1878;Job;688.csg.bcmd.bcm.edu;on_job_exit valid pjob: 688.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 03:28:25;0100;PBS_Server.1878;Job;688.csg.bcmd.bcm.edu;dequeuing from high, state COMPLETE
+12/04/2012 03:28:30;0040;PBS_Server.10500;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 03:30:09;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:35:14;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:38:40;0040;PBS_Server.10514;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 03:40:19;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:45:24;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:48:50;0040;PBS_Server.10541;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 03:50:29;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:55:34;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 03:59:00;0040;PBS_Server.10556;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 04:00:39;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:05:44;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:09:10;0040;PBS_Server.10663;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 04:10:49;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:15:54;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:19:20;0040;PBS_Server.10769;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 04:20:59;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:26:04;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:29:30;0040;PBS_Server.10876;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 04:31:09;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:36:14;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:39:40;0040;PBS_Server.10980;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 04:41:19;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:46:24;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:49:50;0040;PBS_Server.11085;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 04:51:29;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 04:56:34;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:00:00;0040;PBS_Server.11190;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 05:01:39;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:06:44;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:10:10;0040;PBS_Server.11215;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 05:11:49;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:16:54;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:20:20;0040;PBS_Server.11229;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 05:21:59;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:27:04;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:30:30;0040;PBS_Server.11244;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 05:32:09;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:37:14;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:40:40;0040;PBS_Server.11257;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 05:42:19;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:47:24;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:50:50;0040;PBS_Server.11273;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 05:52:29;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 05:57:34;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:01:00;0040;PBS_Server.11295;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 06:02:39;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:07:44;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:11:10;0040;PBS_Server.11413;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 06:12:49;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:17:54;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:21:20;0040;PBS_Server.11518;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 06:22:59;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:28:04;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:31:30;0040;PBS_Server.11624;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 06:33:09;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:38:14;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:41:40;0040;PBS_Server.11730;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 06:43:19;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:48:24;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:51:50;0040;PBS_Server.11835;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 06:53:29;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 06:58:34;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:02:00;0040;PBS_Server.11927;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 07:03:39;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:08:44;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:12:10;0040;PBS_Server.11942;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 07:13:49;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:18:54;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:22:20;0040;PBS_Server.11956;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 07:23:59;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:29:04;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:32:30;0040;PBS_Server.11971;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 07:34:09;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:39:14;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:42:40;0040;PBS_Server.11985;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 07:44:19;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:49:24;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:52:50;0040;PBS_Server.12000;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 07:54:29;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 07:59:34;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:03:00;0040;PBS_Server.12045;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 08:04:39;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:09:44;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:13:10;0040;PBS_Server.12157;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 08:14:49;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:19:54;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:23:20;0040;PBS_Server.12263;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 08:24:59;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:30:04;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:33:30;0040;PBS_Server.12369;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 08:35:09;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:40:14;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:43:40;0040;PBS_Server.12472;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 08:45:19;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:50:24;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 08:53:50;0040;PBS_Server.12576;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 08:55:29;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:00:34;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:04:00;0040;PBS_Server.12716;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 09:05:39;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:10:44;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:14:10;0040;PBS_Server.12827;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 09:15:49;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:20:54;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:24:20;0040;PBS_Server.13034;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 09:25:59;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:31:04;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:34:30;0040;PBS_Server.13098;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 09:36:09;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:41:14;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:44:40;0040;PBS_Server.13190;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 09:46:19;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:51:24;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 09:54:50;0040;PBS_Server.13311;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 09:56:29;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:01:34;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:05:00;0040;PBS_Server.13446;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 10:06:39;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:11:44;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:14:50;0100;PBS_Server.1873;Job;689.csg.bcmd.bcm.edu;enqueuing into high, state 1 hop 1
+12/04/2012 10:14:50;0008;PBS_Server.1873;Job;689.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = kbjob_EA_TRIGS_IndelCMC, queue = high
+12/04/2012 10:14:55;0040;PBS_Server.13583;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 10:14:56;0008;PBS_Server.1876;Job;689.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 10:14:56;0001;PBS_Server.1863;Svr;PBS_Server;LOG_ERROR::wait_request, closed connections to fd 9 - num_connections=1 (select bad socket)
+12/04/2012 10:14:56;000d;PBS_Server.1876;Job;689.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 10:16:33;000d;PBS_Server.1878;Job;689.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 10:16:33;0010;PBS_Server.1878;Job;689.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:03:15 resources_used.mem=519480kb resources_used.vmem=4044876kb resources_used.walltime=00:01:37
+12/04/2012 10:16:33;0008;PBS_Server.1869;Job;689.csg.bcmd.bcm.edu;on_job_exit valid pjob: 689.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 10:16:36;0040;PBS_Server.13615;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 10:16:46;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:21:46;0008;PBS_Server.1872;Job;689.csg.bcmd.bcm.edu;on_job_exit valid pjob: 689.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 10:21:46;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:21:46;0100;PBS_Server.1872;Job;689.csg.bcmd.bcm.edu;dequeuing from high, state COMPLETE
+12/04/2012 10:21:51;0040;PBS_Server.13692;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 10:26:57;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:31:57;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:32:03;0040;PBS_Server.13943;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 10:36:58;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:42:09;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:42:14;0040;PBS_Server.14059;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 10:47:19;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:52:24;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 10:52:29;0040;PBS_Server.14204;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 10:57:29;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:02:34;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:02:39;0040;PBS_Server.14427;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 11:07:39;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:12:44;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:12:49;0040;PBS_Server.14761;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 11:17:49;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:20:52;0100;PBS_Server.1868;Job;690.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:20:52;0008;PBS_Server.1868;Job;690.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:20:52;0100;PBS_Server.1876;Job;691.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:20:52;0008;PBS_Server.1876;Job;691.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:20:55;0040;PBS_Server.14847;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:20:56;0008;PBS_Server.1873;Job;690.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:20:56;000d;PBS_Server.1873;Job;690.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:20:56;0008;PBS_Server.1873;Job;691.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:20:56;000d;PBS_Server.1873;Job;691.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:20:58;0100;PBS_Server.1874;Job;692.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:20:58;0008;PBS_Server.1874;Job;692.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:20:58;0100;PBS_Server.1869;Job;693.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:20:58;0008;PBS_Server.1869;Job;693.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:20:59;000d;PBS_Server.1868;Job;690.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:20:59;0010;PBS_Server.1868;Job;690.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:03
+12/04/2012 11:20:59;0008;PBS_Server.1875;Job;690.csg.bcmd.bcm.edu;on_job_exit valid pjob: 690.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:20:59;000d;PBS_Server.1876;Job;691.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:20:59;0010;PBS_Server.1876;Job;691.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:03
+12/04/2012 11:20:59;0008;PBS_Server.1867;Job;691.csg.bcmd.bcm.edu;on_job_exit valid pjob: 691.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:01;0040;PBS_Server.14873;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:21:02;0008;PBS_Server.1873;Job;692.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:02;000d;PBS_Server.1873;Job;692.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:02;0008;PBS_Server.1873;Job;693.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:02;000d;PBS_Server.1873;Job;693.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:02;000d;PBS_Server.1869;Job;692.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:02;0010;PBS_Server.1869;Job;692.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:21:02;0008;PBS_Server.1871;Job;692.csg.bcmd.bcm.edu;on_job_exit valid pjob: 692.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:02;000d;PBS_Server.1877;Job;693.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:02;0010;PBS_Server.1877;Job;693.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:21:02;0008;PBS_Server.1868;Job;693.csg.bcmd.bcm.edu;on_job_exit valid pjob: 693.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:06;0040;PBS_Server.14890;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:21:24;0100;PBS_Server.1872;Job;694.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:24;0008;PBS_Server.1872;Job;694.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:21:24;0100;PBS_Server.1867;Job;695.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:24;0008;PBS_Server.1867;Job;695.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:21:26;0040;PBS_Server.14900;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:21:27;0008;PBS_Server.1873;Job;694.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:27;000d;PBS_Server.1873;Job;694.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:27;0008;PBS_Server.1873;Job;695.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:27;000d;PBS_Server.1873;Job;695.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:27;000d;PBS_Server.1876;Job;694.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:27;0010;PBS_Server.1876;Job;694.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:21:27;0008;PBS_Server.1868;Job;694.csg.bcmd.bcm.edu;on_job_exit valid pjob: 694.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:27;000d;PBS_Server.1871;Job;695.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:27;0010;PBS_Server.1871;Job;695.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:21:27;0008;PBS_Server.1872;Job;695.csg.bcmd.bcm.edu;on_job_exit valid pjob: 695.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:30;0100;PBS_Server.1878;Job;696.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:30;0008;PBS_Server.1878;Job;696.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:21:30;0100;PBS_Server.1877;Job;697.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:30;0008;PBS_Server.1877;Job;697.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:21:31;0040;PBS_Server.14926;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:21:32;0008;PBS_Server.1873;Job;696.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:32;000d;PBS_Server.1873;Job;696.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:32;0008;PBS_Server.1873;Job;697.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:32;000d;PBS_Server.1873;Job;697.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:32;000d;PBS_Server.1867;Job;696.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:32;0010;PBS_Server.1867;Job;696.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:21:32;0008;PBS_Server.1872;Job;696.csg.bcmd.bcm.edu;on_job_exit valid pjob: 696.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:32;000d;PBS_Server.1874;Job;697.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:32;0010;PBS_Server.1874;Job;697.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:21:32;0008;PBS_Server.1870;Job;697.csg.bcmd.bcm.edu;on_job_exit valid pjob: 697.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:21:36;0040;PBS_Server.14943;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:21:48;0100;PBS_Server.1871;Job;698.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:48;0008;PBS_Server.1871;Job;698.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:21:49;0100;PBS_Server.1868;Job;699.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:49;0008;PBS_Server.1868;Job;699.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:21:51;0040;PBS_Server.14953;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:21:52;0008;PBS_Server.1873;Job;698.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:52;000d;PBS_Server.1873;Job;698.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:52;0008;PBS_Server.1873;Job;699.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:52;000d;PBS_Server.1873;Job;699.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:54;0100;PBS_Server.1876;Job;700.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:54;0008;PBS_Server.1876;Job;700.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:21:54;0100;PBS_Server.1866;Job;701.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:21:54;0008;PBS_Server.1866;Job;701.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:21:56;0040;PBS_Server.14965;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:21:57;0008;PBS_Server.1873;Job;700.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:57;000d;PBS_Server.1873;Job;700.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:21:57;0008;PBS_Server.1873;Job;701.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:21:57;000d;PBS_Server.1873;Job;701.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:04;000d;PBS_Server.1875;Job;699.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:04;0010;PBS_Server.1875;Job;699.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:12
+12/04/2012 11:22:04;0008;PBS_Server.1878;Job;699.csg.bcmd.bcm.edu;on_job_exit valid pjob: 699.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:04;000d;PBS_Server.1874;Job;698.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:04;0010;PBS_Server.1874;Job;698.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=39560kb resources_used.vmem=289012kb resources_used.walltime=00:00:12
+12/04/2012 11:22:04;0008;PBS_Server.1869;Job;698.csg.bcmd.bcm.edu;on_job_exit valid pjob: 698.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:06;0040;PBS_Server.14982;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:22:06;000d;PBS_Server.1867;Job;700.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:06;0010;PBS_Server.1867;Job;700.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=37932kb resources_used.vmem=286864kb resources_used.walltime=00:00:09
+12/04/2012 11:22:06;0008;PBS_Server.1868;Job;700.csg.bcmd.bcm.edu;on_job_exit valid pjob: 700.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:07;000d;PBS_Server.1878;Job;701.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:07;0010;PBS_Server.1878;Job;701.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=43788kb resources_used.vmem=293124kb resources_used.walltime=00:00:10
+12/04/2012 11:22:07;0008;PBS_Server.1872;Job;701.csg.bcmd.bcm.edu;on_job_exit valid pjob: 701.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:11;0040;PBS_Server.15003;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:22:16;0100;PBS_Server.1877;Job;702.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:22:16;0008;PBS_Server.1877;Job;702.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:22:16;0100;PBS_Server.1876;Job;703.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:22:16;0008;PBS_Server.1876;Job;703.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:22:21;0040;PBS_Server.15013;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:22:22;0008;PBS_Server.1873;Job;702.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:22:22;000d;PBS_Server.1873;Job;702.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:22;0008;PBS_Server.1873;Job;703.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:22:22;000d;PBS_Server.1873;Job;703.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:23;000d;PBS_Server.1872;Job;702.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:23;0010;PBS_Server.1872;Job;702.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/04/2012 11:22:23;0008;PBS_Server.1869;Job;702.csg.bcmd.bcm.edu;on_job_exit valid pjob: 702.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:23;000d;PBS_Server.1876;Job;703.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:23;0010;PBS_Server.1876;Job;703.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:01 resources_used.mem=124268kb resources_used.vmem=197976kb resources_used.walltime=00:00:01
+12/04/2012 11:22:23;0008;PBS_Server.1868;Job;703.csg.bcmd.bcm.edu;on_job_exit valid pjob: 703.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:25;0100;PBS_Server.1867;Job;704.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:22:25;0008;PBS_Server.1867;Job;704.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:22:25;0100;PBS_Server.1870;Job;705.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:22:25;0008;PBS_Server.1870;Job;705.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:22:26;0040;PBS_Server.15039;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:22:27;0008;PBS_Server.1873;Job;704.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:22:27;000d;PBS_Server.1873;Job;704.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:27;0008;PBS_Server.1873;Job;705.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:22:27;000d;PBS_Server.1873;Job;705.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:28;000d;PBS_Server.1869;Job;704.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:28;0010;PBS_Server.1869;Job;704.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/04/2012 11:22:28;0008;PBS_Server.1871;Job;704.csg.bcmd.bcm.edu;on_job_exit valid pjob: 704.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:28;000d;PBS_Server.1868;Job;705.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:22:28;0010;PBS_Server.1868;Job;705.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:01 resources_used.mem=118976kb resources_used.vmem=192324kb resources_used.walltime=00:00:01
+12/04/2012 11:22:28;0008;PBS_Server.1866;Job;705.csg.bcmd.bcm.edu;on_job_exit valid pjob: 705.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:22:31;0040;PBS_Server.15056;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:22:51;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:26:06;0008;PBS_Server.1878;Job;692.csg.bcmd.bcm.edu;on_job_exit valid pjob: 692.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:06;0008;PBS_Server.1874;Job;690.csg.bcmd.bcm.edu;on_job_exit valid pjob: 690.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:06;0008;PBS_Server.1869;Job;691.csg.bcmd.bcm.edu;on_job_exit valid pjob: 691.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:06;0008;PBS_Server.1877;Job;693.csg.bcmd.bcm.edu;on_job_exit valid pjob: 693.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:06;0100;PBS_Server.1878;Job;692.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:06;0100;PBS_Server.1877;Job;693.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:06;0100;PBS_Server.1869;Job;691.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:06;0100;PBS_Server.1874;Job;690.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:11;0040;PBS_Server.15089;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:26:36;0008;PBS_Server.1877;Job;695.csg.bcmd.bcm.edu;on_job_exit valid pjob: 695.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:36;0008;PBS_Server.1876;Job;696.csg.bcmd.bcm.edu;on_job_exit valid pjob: 696.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:36;0008;PBS_Server.1870;Job;697.csg.bcmd.bcm.edu;on_job_exit valid pjob: 697.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:36;0008;PBS_Server.1874;Job;694.csg.bcmd.bcm.edu;on_job_exit valid pjob: 694.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:26:36;0100;PBS_Server.1877;Job;695.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:36;0100;PBS_Server.1874;Job;694.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:36;0100;PBS_Server.1870;Job;697.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:36;0100;PBS_Server.1876;Job;696.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:26:41;0040;PBS_Server.15090;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:27:06;0008;PBS_Server.1871;Job;699.csg.bcmd.bcm.edu;on_job_exit valid pjob: 699.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:06;0008;PBS_Server.1867;Job;698.csg.bcmd.bcm.edu;on_job_exit valid pjob: 698.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:06;0008;PBS_Server.1875;Job;700.csg.bcmd.bcm.edu;on_job_exit valid pjob: 700.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:06;0100;PBS_Server.1871;Job;699.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:06;0100;PBS_Server.1875;Job;700.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:06;0100;PBS_Server.1867;Job;698.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:11;0040;PBS_Server.15092;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:27:21;0008;PBS_Server.1872;Job;701.csg.bcmd.bcm.edu;on_job_exit valid pjob: 701.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:21;0100;PBS_Server.1872;Job;701.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:26;0040;PBS_Server.15093;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:27:36;0008;PBS_Server.1874;Job;702.csg.bcmd.bcm.edu;on_job_exit valid pjob: 702.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:36;0008;PBS_Server.1870;Job;703.csg.bcmd.bcm.edu;on_job_exit valid pjob: 703.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:36;0008;PBS_Server.1876;Job;704.csg.bcmd.bcm.edu;on_job_exit valid pjob: 704.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:36;0008;PBS_Server.1878;Job;705.csg.bcmd.bcm.edu;on_job_exit valid pjob: 705.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:27:36;0100;PBS_Server.1874;Job;702.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:36;0100;PBS_Server.1878;Job;705.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:36;0100;PBS_Server.1876;Job;704.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:36;0100;PBS_Server.1870;Job;703.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:27:41;0040;PBS_Server.15094;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:27:51;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:33:02;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:34:26;0100;PBS_Server.1877;Job;706.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:34:26;0008;PBS_Server.1877;Job;706.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:34:26;0100;PBS_Server.1869;Job;707.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:34:26;0008;PBS_Server.1869;Job;707.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:34:30;0040;PBS_Server.15188;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:34:31;0008;PBS_Server.1876;Job;706.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:34:31;000d;PBS_Server.1876;Job;706.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:31;0008;PBS_Server.1876;Job;707.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:34:31;000d;PBS_Server.1876;Job;707.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:31;000d;PBS_Server.1868;Job;706.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:31;0010;PBS_Server.1868;Job;706.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:34:31;0008;PBS_Server.1867;Job;706.csg.bcmd.bcm.edu;on_job_exit valid pjob: 706.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:34:31;000d;PBS_Server.1875;Job;707.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:31;0010;PBS_Server.1875;Job;707.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:34:31;0008;PBS_Server.1871;Job;707.csg.bcmd.bcm.edu;on_job_exit valid pjob: 707.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:34:36;0040;PBS_Server.15208;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:34:36;0100;PBS_Server.1869;Job;708.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:34:36;0008;PBS_Server.1869;Job;708.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:34:36;0100;PBS_Server.1878;Job;709.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:34:36;0008;PBS_Server.1878;Job;709.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:34:37;0008;PBS_Server.1876;Job;708.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:34:37;000d;PBS_Server.1876;Job;708.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:37;0008;PBS_Server.1876;Job;709.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:34:37;000d;PBS_Server.1876;Job;709.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:37;000d;PBS_Server.1875;Job;708.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:37;0010;PBS_Server.1875;Job;708.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:34:37;0008;PBS_Server.1872;Job;708.csg.bcmd.bcm.edu;on_job_exit valid pjob: 708.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:34:37;000d;PBS_Server.1871;Job;709.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:34:37;0010;PBS_Server.1871;Job;709.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:34:37;0008;PBS_Server.1877;Job;709.csg.bcmd.bcm.edu;on_job_exit valid pjob: 709.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:34:41;0040;PBS_Server.15233;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:36:27;0100;PBS_Server.1872;Job;710.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:36:27;0008;PBS_Server.1872;Job;710.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:36:27;0100;PBS_Server.1877;Job;711.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:36:27;0008;PBS_Server.1877;Job;711.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:36:31;0040;PBS_Server.15281;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:36:31;0100;PBS_Server.1875;Job;712.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:36:31;0008;PBS_Server.1875;Job;712.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:36:32;0008;PBS_Server.1876;Job;710.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:36:32;000d;PBS_Server.1876;Job;710.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:32;0008;PBS_Server.1876;Job;711.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:36:32;000d;PBS_Server.1876;Job;711.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:32;0008;PBS_Server.1876;Job;712.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:36:32;000d;PBS_Server.1876;Job;712.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:32;0100;PBS_Server.1868;Job;713.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:36:32;0008;PBS_Server.1868;Job;713.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:36:32;000d;PBS_Server.1870;Job;710.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:32;0010;PBS_Server.1870;Job;710.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:36:32;0008;PBS_Server.1869;Job;710.csg.bcmd.bcm.edu;on_job_exit valid pjob: 710.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:36:32;000d;PBS_Server.1873;Job;711.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:32;0010;PBS_Server.1873;Job;711.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:36:32;0008;PBS_Server.1878;Job;711.csg.bcmd.bcm.edu;on_job_exit valid pjob: 711.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:36:32;000d;PBS_Server.1867;Job;712.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:32;0010;PBS_Server.1867;Job;712.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:36:32;0008;PBS_Server.1866;Job;712.csg.bcmd.bcm.edu;on_job_exit valid pjob: 712.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:36:36;0040;PBS_Server.15316;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:36:37;0008;PBS_Server.1876;Job;713.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:36:37;000d;PBS_Server.1876;Job;713.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:37;000d;PBS_Server.1870;Job;713.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:36:37;0010;PBS_Server.1870;Job;713.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:36:37;0008;PBS_Server.1877;Job;713.csg.bcmd.bcm.edu;on_job_exit valid pjob: 713.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:36:41;0040;PBS_Server.15326;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:38:11;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:39:41;0008;PBS_Server.1866;Job;706.csg.bcmd.bcm.edu;on_job_exit valid pjob: 706.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:39:41;0008;PBS_Server.1875;Job;707.csg.bcmd.bcm.edu;on_job_exit valid pjob: 707.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:39:41;0008;PBS_Server.1871;Job;709.csg.bcmd.bcm.edu;on_job_exit valid pjob: 709.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:39:41;0008;PBS_Server.1869;Job;708.csg.bcmd.bcm.edu;on_job_exit valid pjob: 708.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:39:41;0100;PBS_Server.1866;Job;706.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:39:41;0100;PBS_Server.1869;Job;708.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:39:41;0100;PBS_Server.1871;Job;709.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:39:41;0100;PBS_Server.1875;Job;707.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:39:46;0040;PBS_Server.15341;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:40:18;0100;PBS_Server.1873;Job;714.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:40:18;0008;PBS_Server.1873;Job;714.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:40:18;0100;PBS_Server.1872;Job;715.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:40:18;0008;PBS_Server.1872;Job;715.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:40:21;0040;PBS_Server.15357;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:40:22;0008;PBS_Server.1876;Job;714.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:40:22;000d;PBS_Server.1876;Job;714.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:40:22;0008;PBS_Server.1876;Job;715.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:40:22;000d;PBS_Server.1876;Job;715.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:40:22;000d;PBS_Server.1875;Job;714.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:40:22;0010;PBS_Server.1875;Job;714.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:40:22;0008;PBS_Server.1866;Job;714.csg.bcmd.bcm.edu;on_job_exit valid pjob: 714.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:40:22;000d;PBS_Server.1871;Job;715.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:40:22;0010;PBS_Server.1871;Job;715.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:00
+12/04/2012 11:40:22;0008;PBS_Server.1868;Job;715.csg.bcmd.bcm.edu;on_job_exit valid pjob: 715.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:40:26;0040;PBS_Server.15376;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:41:41;0008;PBS_Server.1875;Job;712.csg.bcmd.bcm.edu;on_job_exit valid pjob: 712.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:41:41;0008;PBS_Server.1871;Job;711.csg.bcmd.bcm.edu;on_job_exit valid pjob: 711.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:41:41;0008;PBS_Server.1869;Job;710.csg.bcmd.bcm.edu;on_job_exit valid pjob: 710.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:41:41;0008;PBS_Server.1870;Job;713.csg.bcmd.bcm.edu;on_job_exit valid pjob: 713.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:41:41;0100;PBS_Server.1875;Job;712.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:41:41;0100;PBS_Server.1870;Job;713.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:41:41;0100;PBS_Server.1869;Job;710.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:41:41;0100;PBS_Server.1871;Job;711.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:41:46;0040;PBS_Server.15408;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:43:03;0100;PBS_Server.1875;Job;716.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:43:03;0008;PBS_Server.1875;Job;716.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:43:04;0100;PBS_Server.1873;Job;717.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:43:04;0008;PBS_Server.1873;Job;717.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:43:07;0040;PBS_Server.15437;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:43:08;0008;PBS_Server.1876;Job;716.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:43:08;000d;PBS_Server.1876;Job;716.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:08;0008;PBS_Server.1876;Job;717.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:43:08;000d;PBS_Server.1876;Job;717.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:09;0100;PBS_Server.1875;Job;718.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:43:09;0008;PBS_Server.1875;Job;718.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:43:10;0100;PBS_Server.1873;Job;719.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:43:10;0008;PBS_Server.1873;Job;719.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:43:12;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:43:12;0040;PBS_Server.15448;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:43:13;0008;PBS_Server.1876;Job;718.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:43:13;000d;PBS_Server.1876;Job;718.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:13;0008;PBS_Server.1876;Job;719.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:43:13;000d;PBS_Server.1876;Job;719.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:17;000d;PBS_Server.1867;Job;716.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:17;0010;PBS_Server.1867;Job;716.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:09
+12/04/2012 11:43:17;0008;PBS_Server.1875;Job;716.csg.bcmd.bcm.edu;on_job_exit valid pjob: 716.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:43:18;000d;PBS_Server.1866;Job;717.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:18;0010;PBS_Server.1866;Job;717.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=43652kb resources_used.vmem=292980kb resources_used.walltime=00:00:10
+12/04/2012 11:43:18;0008;PBS_Server.1877;Job;717.csg.bcmd.bcm.edu;on_job_exit valid pjob: 717.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:43:22;0040;PBS_Server.15467;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:43:22;000d;PBS_Server.1869;Job;718.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:22;0010;PBS_Server.1869;Job;718.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=37940kb resources_used.vmem=286864kb resources_used.walltime=00:00:09
+12/04/2012 11:43:22;0008;PBS_Server.1870;Job;718.csg.bcmd.bcm.edu;on_job_exit valid pjob: 718.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:43:23;000d;PBS_Server.1872;Job;719.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:43:23;0010;PBS_Server.1872;Job;719.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=102368kb resources_used.vmem=292980kb resources_used.walltime=00:00:10
+12/04/2012 11:43:23;0008;PBS_Server.1875;Job;719.csg.bcmd.bcm.edu;on_job_exit valid pjob: 719.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:43:27;0040;PBS_Server.15489;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:45:21;0100;PBS_Server.1874;Job;720.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:45:21;0008;PBS_Server.1874;Job;720.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:45:21;0100;PBS_Server.1871;Job;721.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:45:21;0008;PBS_Server.1871;Job;721.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:45:22;0040;PBS_Server.15533;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:45:23;0008;PBS_Server.1876;Job;720.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:45:23;000d;PBS_Server.1876;Job;720.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:45:23;0008;PBS_Server.1876;Job;721.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:45:23;000d;PBS_Server.1876;Job;721.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:45:27;0008;PBS_Server.1874;Job;714.csg.bcmd.bcm.edu;on_job_exit valid pjob: 714.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:45:27;0008;PBS_Server.1871;Job;715.csg.bcmd.bcm.edu;on_job_exit valid pjob: 715.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:45:27;0100;PBS_Server.1874;Job;714.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:45:27;0100;PBS_Server.1871;Job;715.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:45:32;0040;PBS_Server.15543;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:45:32;000d;PBS_Server.1866;Job;720.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:45:32;0010;PBS_Server.1866;Job;720.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:09
+12/04/2012 11:45:32;0008;PBS_Server.1878;Job;720.csg.bcmd.bcm.edu;on_job_exit valid pjob: 720.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:45:32;000d;PBS_Server.1869;Job;721.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:45:32;0010;PBS_Server.1869;Job;721.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=53828kb resources_used.vmem=214772kb resources_used.walltime=00:00:09
+12/04/2012 11:45:32;0008;PBS_Server.1873;Job;721.csg.bcmd.bcm.edu;on_job_exit valid pjob: 721.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:45:37;0040;PBS_Server.15561;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:48:12;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:48:27;0008;PBS_Server.1866;Job;716.csg.bcmd.bcm.edu;on_job_exit valid pjob: 716.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:48:27;0100;PBS_Server.1866;Job;716.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:48:27;0008;PBS_Server.1869;Job;719.csg.bcmd.bcm.edu;on_job_exit valid pjob: 719.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:48:27;0008;PBS_Server.1877;Job;718.csg.bcmd.bcm.edu;on_job_exit valid pjob: 718.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:48:27;0008;PBS_Server.1868;Job;717.csg.bcmd.bcm.edu;on_job_exit valid pjob: 717.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:48:27;0100;PBS_Server.1869;Job;719.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:48:27;0100;PBS_Server.1868;Job;717.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:48:27;0100;PBS_Server.1877;Job;718.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:48:32;0040;PBS_Server.15591;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:48:33;0100;PBS_Server.1875;Job;722.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:48:33;0008;PBS_Server.1875;Job;722.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:48:34;0100;PBS_Server.1870;Job;723.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:48:34;0008;PBS_Server.1870;Job;723.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:48:37;0040;PBS_Server.15601;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:48:38;0008;PBS_Server.1876;Job;722.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:48:38;000d;PBS_Server.1876;Job;722.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:48:38;0008;PBS_Server.1876;Job;723.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:48:38;000d;PBS_Server.1876;Job;723.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:48:47;000d;PBS_Server.1878;Job;722.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:48:47;0010;PBS_Server.1878;Job;722.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=37936kb resources_used.vmem=286864kb resources_used.walltime=00:00:09
+12/04/2012 11:48:47;0008;PBS_Server.1871;Job;722.csg.bcmd.bcm.edu;on_job_exit valid pjob: 722.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:48:47;000d;PBS_Server.1867;Job;723.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:48:47;0010;PBS_Server.1867;Job;723.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=65168kb resources_used.vmem=291884kb resources_used.walltime=00:00:09
+12/04/2012 11:48:47;0008;PBS_Server.1875;Job;723.csg.bcmd.bcm.edu;on_job_exit valid pjob: 723.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:48:47;0040;PBS_Server.15612;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:48:47;0040;PBS_Server.15621;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:50:42;0008;PBS_Server.1867;Job;720.csg.bcmd.bcm.edu;on_job_exit valid pjob: 720.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:50:42;0008;PBS_Server.1872;Job;721.csg.bcmd.bcm.edu;on_job_exit valid pjob: 721.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:50:42;0100;PBS_Server.1867;Job;720.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:50:42;0100;PBS_Server.1872;Job;721.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:50:47;0040;PBS_Server.15664;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:53:23;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 11:53:53;0008;PBS_Server.1871;Job;722.csg.bcmd.bcm.edu;on_job_exit valid pjob: 722.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:53:53;0008;PBS_Server.1867;Job;723.csg.bcmd.bcm.edu;on_job_exit valid pjob: 723.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 11:53:53;0100;PBS_Server.1871;Job;722.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:53:53;0100;PBS_Server.1867;Job;723.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 11:53:58;0040;PBS_Server.15699;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:57:10;0100;PBS_Server.1878;Job;724.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:57:10;0008;PBS_Server.1878;Job;724.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:57:10;0100;PBS_Server.1870;Job;725.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:57:10;0008;PBS_Server.1870;Job;725.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:57:13;0040;PBS_Server.15750;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:57:14;0008;PBS_Server.1876;Job;724.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:57:14;000d;PBS_Server.1876;Job;724.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:14;0008;PBS_Server.1876;Job;725.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:57:14;000d;PBS_Server.1876;Job;725.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:15;000d;PBS_Server.1875;Job;724.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:15;0010;PBS_Server.1875;Job;724.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/04/2012 11:57:15;0008;PBS_Server.1869;Job;724.csg.bcmd.bcm.edu;on_job_exit valid pjob: 724.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:57:15;0100;PBS_Server.1866;Job;726.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:57:15;0008;PBS_Server.1866;Job;726.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 11:57:15;000d;PBS_Server.1874;Job;725.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:15;0010;PBS_Server.1874;Job;725.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:01 resources_used.mem=129412kb resources_used.vmem=202788kb resources_used.walltime=00:00:01
+12/04/2012 11:57:15;0008;PBS_Server.1878;Job;725.csg.bcmd.bcm.edu;on_job_exit valid pjob: 725.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:57:16;0100;PBS_Server.1870;Job;727.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 11:57:16;0008;PBS_Server.1870;Job;727.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 11:57:18;0040;PBS_Server.15777;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 11:57:19;0008;PBS_Server.1876;Job;726.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:57:19;000d;PBS_Server.1876;Job;726.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:19;0008;PBS_Server.1876;Job;727.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 11:57:19;000d;PBS_Server.1876;Job;727.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:20;000d;PBS_Server.1868;Job;726.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:20;0010;PBS_Server.1868;Job;726.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/04/2012 11:57:20;0008;PBS_Server.1869;Job;726.csg.bcmd.bcm.edu;on_job_exit valid pjob: 726.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:57:20;000d;PBS_Server.1873;Job;727.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 11:57:20;0010;PBS_Server.1873;Job;727.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:01 resources_used.mem=116360kb resources_used.vmem=189892kb resources_used.walltime=00:00:01
+12/04/2012 11:57:20;0008;PBS_Server.1874;Job;727.csg.bcmd.bcm.edu;on_job_exit valid pjob: 727.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 11:57:23;0040;PBS_Server.15796;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 11:58:23;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:02:13;0100;PBS_Server.1866;Job;728.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:02:13;0008;PBS_Server.1866;Job;728.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:02:14;0100;PBS_Server.1867;Job;729.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:02:14;0008;PBS_Server.1867;Job;729.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:02:14;0040;PBS_Server.15941;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:02:15;0008;PBS_Server.1876;Job;728.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:02:15;000d;PBS_Server.1876;Job;728.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:15;0008;PBS_Server.1876;Job;729.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:02:15;000d;PBS_Server.1876;Job;729.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:16;000d;PBS_Server.1871;Job;728.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:16;0010;PBS_Server.1871;Job;728.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/04/2012 12:02:16;0008;PBS_Server.1870;Job;728.csg.bcmd.bcm.edu;on_job_exit valid pjob: 728.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:02:16;000d;PBS_Server.1875;Job;729.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:16;0010;PBS_Server.1875;Job;729.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:01 resources_used.mem=129412kb resources_used.vmem=202788kb resources_used.walltime=00:00:01
+12/04/2012 12:02:16;0008;PBS_Server.1877;Job;729.csg.bcmd.bcm.edu;on_job_exit valid pjob: 729.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:02:19;0008;PBS_Server.1867;Job;725.csg.bcmd.bcm.edu;on_job_exit valid pjob: 725.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:02:19;0008;PBS_Server.1866;Job;724.csg.bcmd.bcm.edu;on_job_exit valid pjob: 724.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:02:19;0100;PBS_Server.1867;Job;725.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:02:19;0100;PBS_Server.1866;Job;724.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:02:19;0040;PBS_Server.15958;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:02:20;0100;PBS_Server.1873;Job;730.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:02:20;0008;PBS_Server.1873;Job;730.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:02:20;0100;PBS_Server.1872;Job;731.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:02:20;0008;PBS_Server.1872;Job;731.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:02:24;0040;PBS_Server.15969;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:02:25;0008;PBS_Server.1876;Job;730.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:02:25;000d;PBS_Server.1876;Job;730.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:25;0008;PBS_Server.1876;Job;731.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:02:25;000d;PBS_Server.1876;Job;731.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:26;000d;PBS_Server.1878;Job;730.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:26;0010;PBS_Server.1878;Job;730.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:01
+12/04/2012 12:02:26;0008;PBS_Server.1877;Job;730.csg.bcmd.bcm.edu;on_job_exit valid pjob: 730.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:02:26;000d;PBS_Server.1867;Job;731.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:02:26;0010;PBS_Server.1867;Job;731.csg.bcmd.bcm.edu;Exit_status=1 resources_used.cput=00:00:01 resources_used.mem=119588kb resources_used.vmem=192964kb resources_used.walltime=00:00:01
+12/04/2012 12:02:26;0008;PBS_Server.1866;Job;731.csg.bcmd.bcm.edu;on_job_exit valid pjob: 731.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:02:29;0040;PBS_Server.15988;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:02:34;0008;PBS_Server.1872;Job;726.csg.bcmd.bcm.edu;on_job_exit valid pjob: 726.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:02:34;0008;PBS_Server.1870;Job;727.csg.bcmd.bcm.edu;on_job_exit valid pjob: 727.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:02:34;0100;PBS_Server.1872;Job;726.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:02:34;0100;PBS_Server.1870;Job;727.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:02:39;0040;PBS_Server.15989;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:03:34;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:07:19;0008;PBS_Server.1877;Job;728.csg.bcmd.bcm.edu;on_job_exit valid pjob: 728.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:07:19;0008;PBS_Server.1871;Job;729.csg.bcmd.bcm.edu;on_job_exit valid pjob: 729.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:07:19;0100;PBS_Server.1877;Job;728.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:07:19;0100;PBS_Server.1871;Job;729.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:07:24;0040;PBS_Server.16156;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:07:34;0008;PBS_Server.1868;Job;730.csg.bcmd.bcm.edu;on_job_exit valid pjob: 730.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:07:34;0008;PBS_Server.1872;Job;731.csg.bcmd.bcm.edu;on_job_exit valid pjob: 731.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:07:34;0100;PBS_Server.1868;Job;730.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:07:34;0100;PBS_Server.1872;Job;731.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:07:39;0040;PBS_Server.16157;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:08:34;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:10:29;0100;PBS_Server.1877;Job;732.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:10:29;0008;PBS_Server.1877;Job;732.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:10:29;0100;PBS_Server.1871;Job;733.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:10:29;0008;PBS_Server.1871;Job;733.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:10:30;0040;PBS_Server.16234;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:10:31;0008;PBS_Server.1876;Job;732.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:10:31;000d;PBS_Server.1876;Job;732.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:10:31;0008;PBS_Server.1876;Job;733.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:10:31;000d;PBS_Server.1876;Job;733.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:10:34;0100;PBS_Server.1868;Job;734.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:10:34;0008;PBS_Server.1868;Job;734.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:10:34;0100;PBS_Server.1870;Job;735.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:10:34;0008;PBS_Server.1870;Job;735.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:10:35;0040;PBS_Server.16244;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:10:36;0008;PBS_Server.1876;Job;734.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:10:36;000d;PBS_Server.1876;Job;734.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:10:36;0008;PBS_Server.1876;Job;735.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:10:36;000d;PBS_Server.1876;Job;735.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:11:26;000d;PBS_Server.1872;Job;732.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:11:26;0010;PBS_Server.1872;Job;732.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:52 resources_used.mem=37976kb resources_used.vmem=286864kb resources_used.walltime=00:00:55
+12/04/2012 12:11:26;0008;PBS_Server.1868;Job;732.csg.bcmd.bcm.edu;on_job_exit valid pjob: 732.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:11:30;0040;PBS_Server.16274;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:11:37;000d;PBS_Server.1871;Job;734.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:11:37;0010;PBS_Server.1871;Job;734.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:01:00 resources_used.mem=37964kb resources_used.vmem=286864kb resources_used.walltime=00:01:01
+12/04/2012 12:11:37;0008;PBS_Server.1877;Job;734.csg.bcmd.bcm.edu;on_job_exit valid pjob: 734.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:11:40;0040;PBS_Server.16289;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:12:06;000d;PBS_Server.1867;Job;733.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:12:06;0010;PBS_Server.1867;Job;733.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:01:34 resources_used.mem=192400kb resources_used.vmem=312356kb resources_used.walltime=00:01:35
+12/04/2012 12:12:06;0008;PBS_Server.1871;Job;733.csg.bcmd.bcm.edu;on_job_exit valid pjob: 733.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:12:10;0040;PBS_Server.16319;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:12:17;000d;PBS_Server.1872;Job;735.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:12:17;0010;PBS_Server.1872;Job;735.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:01:39 resources_used.mem=302344kb resources_used.vmem=432976kb resources_used.walltime=00:01:41
+12/04/2012 12:12:17;0008;PBS_Server.1868;Job;735.csg.bcmd.bcm.edu;on_job_exit valid pjob: 735.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:12:20;0040;PBS_Server.16329;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:13:35;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:16:35;0008;PBS_Server.1869;Job;732.csg.bcmd.bcm.edu;on_job_exit valid pjob: 732.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:16:35;0100;PBS_Server.1869;Job;732.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:16:40;0040;PBS_Server.16393;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:16:50;0008;PBS_Server.1873;Job;734.csg.bcmd.bcm.edu;on_job_exit valid pjob: 734.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:16:50;0100;PBS_Server.1873;Job;734.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:16:55;0040;PBS_Server.16394;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:17:20;0008;PBS_Server.1872;Job;733.csg.bcmd.bcm.edu;on_job_exit valid pjob: 733.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:17:20;0008;PBS_Server.1875;Job;735.csg.bcmd.bcm.edu;on_job_exit valid pjob: 735.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 12:17:20;0100;PBS_Server.1872;Job;733.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:17:20;0100;PBS_Server.1875;Job;735.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 12:17:25;0040;PBS_Server.16416;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:18:35;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:23:36;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:27:36;0040;PBS_Server.16545;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 12:28:38;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:33:43;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:37:46;0040;PBS_Server.16649;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 12:38:48;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:43:53;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:47:56;0040;PBS_Server.16785;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 12:48:58;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:54:03;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 12:55:51;0100;PBS_Server.1866;Job;736.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:55:51;0008;PBS_Server.1866;Job;736.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:55:51;0100;PBS_Server.1874;Job;737.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:55:51;0008;PBS_Server.1874;Job;737.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:55:52;0040;PBS_Server.17078;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:55:53;0008;PBS_Server.1875;Job;736.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:55:53;000d;PBS_Server.1875;Job;736.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:55:53;0008;PBS_Server.1875;Job;737.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:55:53;000d;PBS_Server.1875;Job;737.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:56:54;000d;PBS_Server.1866;Job;736.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:56:54;0010;PBS_Server.1866;Job;736.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:01:00 resources_used.mem=171432kb resources_used.vmem=291352kb resources_used.walltime=00:01:01
+12/04/2012 12:56:54;0008;PBS_Server.1871;Job;736.csg.bcmd.bcm.edu;on_job_exit valid pjob: 736.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:56:58;0040;PBS_Server.17099;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:57:34;000d;PBS_Server.1876;Job;737.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:57:34;0010;PBS_Server.1876;Job;737.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:01:40 resources_used.mem=203772kb resources_used.vmem=323828kb resources_used.walltime=00:01:41
+12/04/2012 12:57:34;0008;PBS_Server.1873;Job;737.csg.bcmd.bcm.edu;on_job_exit valid pjob: 737.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:57:38;0040;PBS_Server.17124;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:57:54;0100;PBS_Server.1867;Job;738.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:57:54;0008;PBS_Server.1867;Job;738.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:57:54;0100;PBS_Server.1868;Job;739.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:57:54;0008;PBS_Server.1868;Job;739.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:57:58;0040;PBS_Server.17136;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:57:59;0008;PBS_Server.1875;Job;738.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:57:59;000d;PBS_Server.1875;Job;738.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:57:59;0008;PBS_Server.1875;Job;739.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:57:59;000d;PBS_Server.1875;Job;739.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:08;000d;PBS_Server.1877;Job;738.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:08;0010;PBS_Server.1877;Job;738.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:08 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:09
+12/04/2012 12:58:08;0008;PBS_Server.1870;Job;738.csg.bcmd.bcm.edu;on_job_exit valid pjob: 738.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:58:08;000d;PBS_Server.1872;Job;739.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:08;0010;PBS_Server.1872;Job;739.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=63192kb resources_used.vmem=223828kb resources_used.walltime=00:00:09
+12/04/2012 12:58:08;0008;PBS_Server.1868;Job;739.csg.bcmd.bcm.edu;on_job_exit valid pjob: 739.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:58:13;0040;PBS_Server.17165;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:58:21;0100;PBS_Server.1869;Job;740.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:58:21;0008;PBS_Server.1869;Job;740.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 12:58:21;0100;PBS_Server.1868;Job;741.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 12:58:21;0008;PBS_Server.1868;Job;741.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 12:58:23;0040;PBS_Server.17175;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 12:58:24;0008;PBS_Server.1875;Job;740.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:58:24;000d;PBS_Server.1875;Job;740.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:24;0008;PBS_Server.1875;Job;741.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 12:58:24;000d;PBS_Server.1875;Job;741.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:34;000d;PBS_Server.1877;Job;740.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:34;0010;PBS_Server.1877;Job;740.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=45676kb resources_used.vmem=294604kb resources_used.walltime=00:00:10
+12/04/2012 12:58:34;0008;PBS_Server.1872;Job;740.csg.bcmd.bcm.edu;on_job_exit valid pjob: 740.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:58:34;000d;PBS_Server.1870;Job;741.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 12:58:34;0010;PBS_Server.1870;Job;741.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=71700kb resources_used.vmem=223832kb resources_used.walltime=00:00:10
+12/04/2012 12:58:34;0008;PBS_Server.1876;Job;741.csg.bcmd.bcm.edu;on_job_exit valid pjob: 741.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 12:58:38;0040;PBS_Server.17192;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 12:59:13;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:00:53;0100;PBS_Server.1878;Job;742.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:00:53;0008;PBS_Server.1878;Job;742.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 13:00:53;0040;PBS_Server.17219;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 13:00:53;0100;PBS_Server.1869;Job;743.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:00:53;0008;PBS_Server.1869;Job;743.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 13:00:54;0008;PBS_Server.1875;Job;742.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:00:54;000d;PBS_Server.1875;Job;742.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:00:54;0008;PBS_Server.1875;Job;743.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:00:54;000d;PBS_Server.1875;Job;743.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:00:58;0040;PBS_Server.17225;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 13:01:04;000d;PBS_Server.1873;Job;742.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:04;0010;PBS_Server.1873;Job;742.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=0kb resources_used.vmem=0kb resources_used.walltime=00:00:10
+12/04/2012 13:01:04;0008;PBS_Server.1871;Job;742.csg.bcmd.bcm.edu;on_job_exit valid pjob: 742.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:01:04;000d;PBS_Server.1877;Job;743.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:04;0010;PBS_Server.1877;Job;743.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=79680kb resources_used.vmem=223824kb resources_used.walltime=00:00:10
+12/04/2012 13:01:04;0008;PBS_Server.1866;Job;743.csg.bcmd.bcm.edu;on_job_exit valid pjob: 743.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:01:08;0040;PBS_Server.17247;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:01:15;0100;PBS_Server.1869;Job;744.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:01:15;0008;PBS_Server.1869;Job;744.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 13:01:16;0100;PBS_Server.1876;Job;745.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:01:16;0008;PBS_Server.1876;Job;745.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 13:01:18;0040;PBS_Server.17260;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 13:01:19;0008;PBS_Server.1875;Job;744.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:01:19;000d;PBS_Server.1875;Job;744.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:19;0008;PBS_Server.1875;Job;745.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:01:19;000d;PBS_Server.1875;Job;745.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:28;0100;PBS_Server.1877;Job;746.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:01:28;0008;PBS_Server.1877;Job;746.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 13:01:28;0100;PBS_Server.1871;Job;747.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:01:28;0008;PBS_Server.1871;Job;747.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 13:01:28;0040;PBS_Server.17271;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 13:01:29;0008;PBS_Server.1875;Job;746.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:01:29;000d;PBS_Server.1875;Job;746.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:29;0008;PBS_Server.1875;Job;747.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:01:29;000d;PBS_Server.1875;Job;747.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:36;0100;PBS_Server.1874;Job;748.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:01:36;0008;PBS_Server.1874;Job;748.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname1, queue = batch
+12/04/2012 13:01:37;0100;PBS_Server.1873;Job;749.csg.bcmd.bcm.edu;enqueuing into batch, state 1 hop 1
+12/04/2012 13:01:37;0008;PBS_Server.1873;Job;749.csg.bcmd.bcm.edu;Job Queued at request of lacuesta@csg.bcmd.bcm.edu, owner = lacuesta@csg.bcmd.bcm.edu, job name = jobname2, queue = batch
+12/04/2012 13:01:38;000d;PBS_Server.1870;Job;746.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:38;0010;PBS_Server.1870;Job;746.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=71380kb resources_used.vmem=191492kb resources_used.walltime=00:00:09
+12/04/2012 13:01:38;0008;PBS_Server.1871;Job;746.csg.bcmd.bcm.edu;on_job_exit valid pjob: 746.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:01:38;0040;PBS_Server.17299;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command new
+12/04/2012 13:01:39;0008;PBS_Server.1875;Job;748.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:01:39;000d;PBS_Server.1875;Job;748.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:39;0008;PBS_Server.1875;Job;749.csg.bcmd.bcm.edu;Job Run at request of root@csg.bcmd.bcm.edu
+12/04/2012 13:01:39;000d;PBS_Server.1875;Job;749.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:42;000d;PBS_Server.1872;Job;747.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:42;0010;PBS_Server.1872;Job;747.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=75176kb resources_used.vmem=295152kb resources_used.walltime=00:00:13
+12/04/2012 13:01:42;0008;PBS_Server.1866;Job;747.csg.bcmd.bcm.edu;on_job_exit valid pjob: 747.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:01:43;0040;PBS_Server.17317;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:01:49;000d;PBS_Server.1870;Job;748.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:49;0010;PBS_Server.1870;Job;748.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=92572kb resources_used.vmem=223096kb resources_used.walltime=00:00:10
+12/04/2012 13:01:49;0008;PBS_Server.1868;Job;748.csg.bcmd.bcm.edu;on_job_exit valid pjob: 748.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:01:49;000d;PBS_Server.1869;Job;749.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:01:49;0010;PBS_Server.1869;Job;749.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:09 resources_used.mem=90044kb resources_used.vmem=223832kb resources_used.walltime=00:00:10
+12/04/2012 13:01:49;0008;PBS_Server.1872;Job;749.csg.bcmd.bcm.edu;on_job_exit valid pjob: 749.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:01:53;0040;PBS_Server.17349;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:01:58;0008;PBS_Server.1868;Job;736.csg.bcmd.bcm.edu;on_job_exit valid pjob: 736.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:01:58;0100;PBS_Server.1868;Job;736.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:02:03;0040;PBS_Server.17381;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:02:15;000d;PBS_Server.1876;Job;744.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:02:15;0010;PBS_Server.1876;Job;744.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:00:53 resources_used.mem=256164kb resources_used.vmem=386508kb resources_used.walltime=00:00:56
+12/04/2012 13:02:15;0008;PBS_Server.1866;Job;744.csg.bcmd.bcm.edu;on_job_exit valid pjob: 744.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:02:18;0040;PBS_Server.17390;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:02:43;0008;PBS_Server.1870;Job;737.csg.bcmd.bcm.edu;on_job_exit valid pjob: 737.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:02:43;0100;PBS_Server.1870;Job;737.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:02:48;000d;PBS_Server.1869;Job;745.csg.bcmd.bcm.edu;Not sending email: User does not want mail of this type.
+12/04/2012 13:02:48;0010;PBS_Server.1869;Job;745.csg.bcmd.bcm.edu;Exit_status=0 resources_used.cput=00:01:26 resources_used.mem=194520kb resources_used.vmem=314372kb resources_used.walltime=00:01:29
+12/04/2012 13:02:48;0008;PBS_Server.1876;Job;745.csg.bcmd.bcm.edu;on_job_exit valid pjob: 745.csg.bcmd.bcm.edu (substate=50)
+12/04/2012 13:02:48;0040;PBS_Server.17399;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:03:13;0008;PBS_Server.1870;Job;738.csg.bcmd.bcm.edu;on_job_exit valid pjob: 738.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:03:13;0008;PBS_Server.1874;Job;739.csg.bcmd.bcm.edu;on_job_exit valid pjob: 739.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:03:13;0100;PBS_Server.1870;Job;738.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:03:13;0100;PBS_Server.1874;Job;739.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:03:18;0040;PBS_Server.17430;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:03:43;0008;PBS_Server.1868;Job;740.csg.bcmd.bcm.edu;on_job_exit valid pjob: 740.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:03:43;0008;PBS_Server.1876;Job;741.csg.bcmd.bcm.edu;on_job_exit valid pjob: 741.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:03:43;0100;PBS_Server.1868;Job;740.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:03:43;0100;PBS_Server.1876;Job;741.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:03:48;0040;PBS_Server.17501;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:04:13;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:06:09;0008;PBS_Server.1878;Job;742.csg.bcmd.bcm.edu;on_job_exit valid pjob: 742.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:06:09;0008;PBS_Server.1867;Job;743.csg.bcmd.bcm.edu;on_job_exit valid pjob: 743.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:06:09;0100;PBS_Server.1878;Job;742.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:06:09;0100;PBS_Server.1867;Job;743.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:06:14;0040;PBS_Server.17540;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:06:39;0008;PBS_Server.1866;Job;746.csg.bcmd.bcm.edu;on_job_exit valid pjob: 746.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:06:39;0100;PBS_Server.1866;Job;746.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:06:44;0040;PBS_Server.17541;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:06:54;0008;PBS_Server.1872;Job;747.csg.bcmd.bcm.edu;on_job_exit valid pjob: 747.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:06:54;0008;PBS_Server.1867;Job;749.csg.bcmd.bcm.edu;on_job_exit valid pjob: 749.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:06:54;0008;PBS_Server.1873;Job;748.csg.bcmd.bcm.edu;on_job_exit valid pjob: 748.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:06:54;0100;PBS_Server.1872;Job;747.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:06:54;0100;PBS_Server.1873;Job;748.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:06:54;0100;PBS_Server.1867;Job;749.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:06:59;0040;PBS_Server.17542;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:07:24;0008;PBS_Server.1874;Job;744.csg.bcmd.bcm.edu;on_job_exit valid pjob: 744.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:07:24;0100;PBS_Server.1874;Job;744.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:07:29;0040;PBS_Server.17543;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:07:54;0008;PBS_Server.1873;Job;745.csg.bcmd.bcm.edu;on_job_exit valid pjob: 745.csg.bcmd.bcm.edu (substate=59)
+12/04/2012 13:07:54;0100;PBS_Server.1873;Job;745.csg.bcmd.bcm.edu;dequeuing from batch, state COMPLETE
+12/04/2012 13:07:59;0040;PBS_Server.17545;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command term
+12/04/2012 13:09:24;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:14:25;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:18:04;0040;PBS_Server.17630;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 13:19:32;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:24:37;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:28:14;0040;PBS_Server.17787;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 13:29:42;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:34:47;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:38:24;0040;PBS_Server.17857;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 13:39:52;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:44:57;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:48:34;0040;PBS_Server.18123;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 13:50:02;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:55:07;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 13:58:44;0040;PBS_Server.18337;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 14:00:12;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:05:17;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:08:54;0040;PBS_Server.18581;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 14:10:22;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:15:27;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:19:04;0040;PBS_Server.18761;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 14:20:32;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:25:37;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:29:14;0040;PBS_Server.19021;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 14:30:42;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:35:47;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:39:24;0040;PBS_Server.19130;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 14:40:52;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:45:57;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:49:34;0040;PBS_Server.19265;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 14:51:02;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:56:07;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 14:59:44;0040;PBS_Server.19431;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 15:01:12;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:06:17;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:09:54;0040;PBS_Server.19568;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 15:11:22;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:16:27;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:20:04;0040;PBS_Server.19596;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 15:21:32;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:26:37;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:30:14;0040;PBS_Server.19654;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 15:31:42;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:36:47;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:40:24;0040;PBS_Server.19736;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 15:41:52;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:46:57;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:50:34;0040;PBS_Server.19849;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 15:52:02;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 15:57:07;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:00:44;0040;PBS_Server.20004;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 16:02:12;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:07:17;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:10:54;0040;PBS_Server.20257;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 16:12:22;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:17:27;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:21:04;0040;PBS_Server.20470;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 16:22:32;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:27:37;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:31:14;0040;PBS_Server.20878;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 16:32:42;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:37:47;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:41:24;0040;PBS_Server.21153;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 16:42:52;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:47:57;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:51:34;0040;PBS_Server.21321;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 16:53:02;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 16:58:07;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:01:44;0040;PBS_Server.21494;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 17:03:12;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:08:17;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:11:54;0040;PBS_Server.21591;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 17:13:22;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:18:27;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:22:04;0040;PBS_Server.21687;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 17:23:32;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:28:37;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:32:14;0040;PBS_Server.21855;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 17:33:42;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:38:47;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:42:24;0040;PBS_Server.21874;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 17:43:52;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:48:57;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:52:34;0040;PBS_Server.21934;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 17:54:02;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 17:59:07;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:02:44;0040;PBS_Server.21986;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 18:04:12;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:09:17;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:12:54;0040;PBS_Server.22108;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 18:14:22;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:19:27;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:23:04;0040;PBS_Server.22219;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 18:24:32;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:29:37;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:33:14;0040;PBS_Server.22326;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 18:34:42;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:39:47;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:43:24;0040;PBS_Server.22431;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 18:44:52;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:49:57;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 18:53:34;0040;PBS_Server.22536;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 18:55:02;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:00:07;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:03:44;0040;PBS_Server.22608;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 19:05:12;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:10:17;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:13:54;0040;PBS_Server.22624;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 19:15:22;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:20:27;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:24:04;0040;PBS_Server.22637;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 19:25:32;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:30:37;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:34:14;0040;PBS_Server.22652;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 19:35:42;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:40:47;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:44:24;0040;PBS_Server.22666;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 19:45:52;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:50:57;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 19:54:34;0040;PBS_Server.22681;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 19:56:02;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:01:07;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:04:44;0040;PBS_Server.22745;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 20:06:12;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:11:17;0002;PBS_Server.1870;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:14:54;0040;PBS_Server.22850;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 20:16:22;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:21:27;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:25:04;0040;PBS_Server.22966;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 20:26:32;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:31:37;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:35:14;0040;PBS_Server.23073;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 20:36:42;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:41:47;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:45:24;0040;PBS_Server.23178;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 20:46:52;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:51:57;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 20:55:34;0040;PBS_Server.23284;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 20:57:02;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:02:07;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:05:44;0040;PBS_Server.23339;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 21:07:12;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:12:17;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:15:54;0040;PBS_Server.23354;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 21:17:22;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:22:27;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:26:04;0040;PBS_Server.23368;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 21:27:32;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:32:37;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:36:14;0040;PBS_Server.23383;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 21:37:42;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:42:47;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:46:24;0040;PBS_Server.23398;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 21:47:52;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:52:57;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 21:56:34;0040;PBS_Server.23413;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 21:58:02;0002;PBS_Server.1867;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:03:07;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:06:44;0040;PBS_Server.23496;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 22:08:12;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:13:17;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:16:54;0040;PBS_Server.23600;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 22:18:22;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:23:27;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:27:04;0040;PBS_Server.23712;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 22:28:32;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:33:37;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:37:14;0040;PBS_Server.23819;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 22:38:42;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:43:47;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:47:24;0040;PBS_Server.23919;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 22:48:52;0002;PBS_Server.1873;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:53:57;0002;PBS_Server.1871;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 22:57:34;0040;PBS_Server.24028;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 22:59:02;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:04:07;0002;PBS_Server.1868;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:07:44;0040;PBS_Server.24067;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 23:09:12;0002;PBS_Server.1877;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:14:17;0002;PBS_Server.1878;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:17:54;0040;PBS_Server.24082;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 23:19:22;0002;PBS_Server.1866;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:24:27;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:28:04;0040;PBS_Server.24097;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 23:29:32;0002;PBS_Server.1875;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:34:37;0002;PBS_Server.1876;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:38:14;0040;PBS_Server.24111;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 23:39:42;0002;PBS_Server.1874;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:44:47;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:48:24;0040;PBS_Server.24125;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/04/2012 23:49:52;0002;PBS_Server.1869;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:54:57;0002;PBS_Server.1872;Svr;PBS_Server;Torque Server Version = 4.1.2, loglevel = 0
+12/04/2012 23:58:34;0040;PBS_Server.24140;Svr;csg.bcmd.bcm.edu;Scheduler was sent the command time
+12/05/2012 00:00:02;0002;PBS_Server.1874;Svr;Log;Log closed

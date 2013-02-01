@@ -1,0 +1,16 @@
+<queue>
+<modified>0</modified>
+<type>1</type>
+<create_time>0</create_time>
+<modify_time>0</modify_time>
+<name>priority</name>
+<attributes>
+<queue_type>Execution</queue_type>
+<Priority>100</Priority>
+<total_jobs>0</total_jobs>
+<state_count>Transit:0 Queued:0 Held:0 Waiting:0 Running:0 Exiting:0 Complete:0 </state_count>
+<mtime>1351186995</mtime>
+<enabled>1</enabled>
+<started>1</started>
+</attributes>
+</queue>
